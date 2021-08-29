@@ -30,3 +30,17 @@ Total = ₹740 + Delivery Charges for Case and Switches(₹100 per person).
 - [4dcube's Blog](http://blog.4dcu.be/diy/2021/04/05/Macropad.html)
 - [enlavin's Gist using KMK Firmware](https://gist.github.com/enlavin/9406429a4d74b8a5a4d4a0cc15bd1feb)
 - [KMK Firware Docs](https://github.com/KMKfw/kmk_firmware/tree/master/docs)
+
+## Images
+
+1. Raspberry Pi and Gateron Blues
+
+![RPI and Gateron Blues](/assets/rpi.jpg)
+
+2. 3D Printed Case of Void 9 Design
+
+![3D Printed Case](/assets/case_1.jpg)
+
+3. Macropad with Old Keycaps
+
+![Macroapd with Old Keycaps](/assets/kb_1.jpg)
