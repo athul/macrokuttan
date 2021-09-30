@@ -60,6 +60,6 @@ I had some old keycaps lying around which I salvaged from an old keyboard with t
 
 5. Breathe Animation with a Single White Led(Underglow Effect)
 
-!https://user-images.githubusercontent.com/40897573/135473760-ec9e870b-cf40-4e79-8565-fe208eda3cc4.mp4
+https://user-images.githubusercontent.com/40897573/135473760-ec9e870b-cf40-4e79-8565-fe208eda3cc4.mp4
 
 > I don't solder that well, so dropping the soldered parts image ;)
