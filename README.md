@@ -12,11 +12,12 @@ It's a handwired keyboard with a 3D printed case. Me and a group of friends did 
 | Case(3D Printed)  | ₹200  |        1        |
 |  Diodes(1N4148)   |  ₹2   |        9        |
 
+> The Keycaps weren't added since it was out of stock. Will update the table when in stock(probably ₹200/- for 10)
+
 Total = ₹740 + Delivery Charges for Case and Switches(₹100 per person).
 
-I had some old keycaps lying around which I salvaged from an old keyboard with too scratchy mx-blacks. Using that added a vintage flair to the macropad.
+I had some old keycaps lying around which I salvaged from an old keyboard with too scratchy mx-blacks. Using that added a vintage look to the macropad.
 
-> The Keycaps weren't added since it was out of stock. Will update the table when in stock(probably ₹200/- for 10)
 
 ## References
 
@@ -31,14 +32,14 @@ I had some old keycaps lying around which I salvaged from an old keyboard with t
 - [MakeUseOf Blog](https://www.makeuseof.com/how-to-build-macro-pad-on-budget/)
 - [4dcube's Blog](http://blog.4dcu.be/diy/2021/04/05/Macropad.html)
 - [enlavin's Gist using KMK Firmware](https://gist.github.com/enlavin/9406429a4d74b8a5a4d4a0cc15bd1feb)
-- [KMK Firware Docs](https://github.com/KMKfw/kmk_firmware/tree/master/docs)
+- [KMK Firmware Docs](https://github.com/KMKfw/kmk_firmware/tree/master/docs)
 
 ## Things I've tried
 
 - First time soldering
 - Using a Microcontroller for the First time
 - Played with a Rotary Encoder with KMK
-- Added a LED with a breathing animation. This gives an undeglow effect
+- Added a LED with a breathing animation. This gives an underglow effect
 
 ## Images
 
